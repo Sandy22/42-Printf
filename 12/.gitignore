@@ -1,0 +1,12 @@
+*.o
+ft_printf
+format_module_old
+printftest
+.undodir
+*.a
+to_not_release
+testprog
+*.dSYM/
+libft/includes
+Session.vim
+libft-local
